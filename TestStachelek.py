@@ -1,1 +1,1 @@
-print("Witaj Stachelek, cos nie tak")
+print("Witaj Stachelek, cos nie tak, no")
