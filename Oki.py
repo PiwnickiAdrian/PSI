@@ -1,0 +1,1 @@
+print("oś nie tak")
